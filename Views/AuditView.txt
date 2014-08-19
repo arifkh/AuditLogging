@@ -1,0 +1,8 @@
+﻿Type one of the following commands:
+CREATE - Create a new Employee
+EDIT - Edit an existing Employee
+DELETE - Delete an existing Employee
+VIEW - View all Employees
+LOGS - Show Audit logs
+HOME - Main menu
+EXIT - Exit the system

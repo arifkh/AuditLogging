@@ -1,0 +1,3 @@
+﻿Type one of the following commands:
+AUDIT - Go to Audit Menu
+EXIT - Exit the system
